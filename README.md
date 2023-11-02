@@ -30,4 +30,32 @@ Cevap :Averega case
 [2,3,5,8,7,9,4,15,6]
 [2,3,4,8,7,9,5,15,6]
 [2,3,4,5,7,9,8,15,6]
+  
+PROJE-2
+  
+#Merge Sort-Projesi
+
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Big-O gösterimini yazınız.
+
+![Adsız](https://github.com/AydinCATALKAYA/Selection-Sort-Projesi/assets/147395196/d44c10bd-e586-4bd1-bc97-d16a9d9620ea)
+
+Big-O(nlogn)
+
+PROJE-3
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+           5 
+        /    \
+       3      7
+      /\     / \
+     2  4   6   8
+    /\               \
+   0  1               9 
+
+   
+
 
